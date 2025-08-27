@@ -1,1 +1,2 @@
-def saudacao(nome):\n    return f'Olá, {nome}! Bem-vindo ao GitHub.'
+def saudacao(nome):
+    return f'Olá, {nome}! Bem-vindo ao GitHub.'
