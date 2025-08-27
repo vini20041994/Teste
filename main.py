@@ -1,1 +1,1 @@
-from funcoes import saudacao\n\nprint(saudacao('Vinicius'))
+from funcoes import saudacao print(saudacao('Vinicius'))
